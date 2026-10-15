@@ -1,1 +1,24 @@
-{"reels": []}
+{
+  "reels": [
+    {
+      "id": "20261015-213740-1",
+      "date": "2026-10-15",
+      "category": "sleep",
+      "topic": "a calm wind-down routine before bed",
+      "template": "simple_checklist",
+      "voice": "en-US-AriaNeural",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
+    },
+    {
+      "id": "20261015-213740-2",
+      "date": "2026-10-15",
+      "category": "haircare",
+      "topic": "overnight hair care tips for smoother mornings",
+      "template": "before_you_try_this",
+      "voice": "en-GB-SoniaNeural",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
+    }
+  ]
+}
