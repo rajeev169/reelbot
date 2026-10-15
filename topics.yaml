@@ -1,0 +1,63 @@
+# Topic pool. Add your own lines freely — more variety = less repetitive channel.
+# Keep topics general wellness / beauty habits (no cures, no disease claims).
+
+skincare:
+  - "a simple 3-step morning skincare routine"
+  - "why sunscreen matters even on cloudy days"
+  - "how to layer skincare products in the right order"
+  - "common face-washing mistakes"
+  - "how to build a gentle night routine for tired skin"
+  - "what to look for on a moisturiser label"
+  - "how to patch test a new skincare product"
+  - "easy ways to avoid over-exfoliating"
+
+haircare:
+  - "how often to wash your hair for your hair type"
+  - "gentle ways to reduce hair breakage"
+  - "a weekly scalp care routine"
+  - "how to dry your hair with less heat damage"
+  - "simple hair oiling habits and how to do them properly"
+  - "how to choose a shampoo without the guesswork"
+  - "overnight hair care tips for smoother mornings"
+
+nutrition:
+  - "easy foods that support glowing skin"
+  - "simple breakfast ideas that keep you full"
+  - "healthy snack swaps for the afternoon slump"
+  - "how to build a balanced plate without counting calories"
+  - "how to read a food label in 20 seconds"
+  - "smart ways to eat more fibre"
+  - "how to cut down on sugary drinks"
+
+hydration:
+  - "easy habits to drink more water through the day"
+  - "signs your daily routine may need more water"
+  - "tasty no-sugar ways to flavour water"
+  - "how hydration and skin comfort are connected"
+
+sleep:
+  - "a calm wind-down routine before bed"
+  - "how to make your bedroom better for sleep"
+  - "why a steady sleep schedule matters for how you look and feel"
+  - "simple habits to avoid late-night scrolling"
+
+movement:
+  - "a 5-minute morning stretch routine"
+  - "easy ways to add more steps to your day"
+  - "desk stretches for neck and shoulders"
+  - "a short beginner-friendly home workout"
+  - "posture reminders you can do while working"
+
+mindset:
+  - "a 2-minute breathing reset for stress"
+  - "how to build a morning routine you can keep"
+  - "journaling prompts for a calmer evening"
+  - "small self-care habits that take under 10 minutes"
+  - "how to stop comparing your routine to influencers"
+
+grooming:
+  - "a quick nail care routine at home"
+  - "lip care basics for dry weather"
+  - "how to keep your makeup brushes clean"
+  - "how to prep your skin before makeup"
+  - "simple dark circle-friendly habits (sleep, hydration, sunscreen)"
