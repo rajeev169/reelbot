@@ -1,0 +1,10 @@
+anthropic>=0.40
+replicate>=0.34
+edge-tts>=6.1
+google-api-python-client>=2.140
+google-auth>=2.30
+google-auth-oauthlib>=1.2
+PyYAML>=6.0
+Pillow>=10.0
+numpy>=1.26
+requests>=2.31
