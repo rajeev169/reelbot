@@ -23,7 +23,7 @@ video:
 # Check ai.google.dev for the current free model names and daily limits, and change `model` if needed.
 llm:
   provider: gemini          # gemini (free tier) | anthropic (paid)
-  model: "gemini-2.5-flash"
+  model: "gemini-3.5-flash-lite"
   max_tokens: 1800
   # To use Claude instead:  provider: anthropic   model: "claude-sonnet-5-5"   (+ ANTHROPIC_API_KEY secret)
 
