@@ -1,0 +1,47 @@
+# ReelBot configuration — edit this file, not the code.
+
+channel:
+  niche: "health and beauty"
+  language: "English"
+
+# How many reels each run makes, and the gap between their publish times.
+reels_per_run: 2
+gap_minutes: 7
+
+# review   = upload as PRIVATE, you approve in YouTube Studio (safest, recommended)
+# schedule = upload private with an automatic publish time (first one ~15 min after upload, then +gap)
+# public   = publish immediately (reels still go out `gap_minutes` apart)
+publish_mode: review
+
+video:
+  width: 1080
+  height: 1920
+  fps: 30
+  max_seconds: 55          # keeps it a Short
+
+# FREE MODE (default): Gemini free tier writes the scripts, your own image library gives the pictures.
+# Check ai.google.dev for the current free model names and daily limits, and change `model` if needed.
+llm:
+  provider: gemini          # gemini (free tier) | anthropic (paid)
+  model: "gemini-2.5-flash"
+  max_tokens: 1800
+  # To use Claude instead:  provider: anthropic   model: "claude-sonnet-5-5"   (+ ANTHROPIC_API_KEY secret)
+
+images:
+  provider: library         # library (free) | replicate (paid, makes new images every day)
+  library_dir: "assets/library"   # put images in assets/library/<category>/ — see LIBRARY_PROMPTS.md
+  # Only used when provider: replicate
+  model: "black-forest-labs/flux-kontext-pro"
+  reference_photo: "assets/model.jpg"
+  image_input_key: "input_image"
+  aspect_ratio: "9:16"
+  extra_input: {}
+
+voice:
+  engine: edge-tts
+
+youtube:
+  category_id: "26"        # Howto & Style
+  made_for_kids: false
+  synthetic_media: true    # "altered or synthetic content" label — keep this true
+  default_tags: ["health", "beauty", "wellness", "shorts"]
