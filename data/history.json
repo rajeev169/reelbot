@@ -67,6 +67,30 @@
       "title": "Three mindful habits under ten minutes",
       "file": "out/20261016-082336-2_small-self-care-habits-that-take-under-1.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261017-075755-1",
+      "date": "2026-10-17",
+      "category": "movement",
+      "topic": "desk stretches for neck and shoulders",
+      "template": "simple_checklist",
+      "voice": "en-US-JennyNeural",
+      "status": "failed",
+      "title": "Quick Desk Stretches for Neck and Shoulders",
+      "file": "out/20261017-075755-1_desk-stretches-for-neck-and-shoulders.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261017-075833-2",
+      "date": "2026-10-17",
+      "category": "skincare",
+      "topic": "what to look for on a moisturiser label",
+      "template": "morning_routine_walkthrough",
+      "voice": "en-IN-NeerjaNeural",
+      "status": "failed",
+      "title": "How to read your moisturiser label",
+      "file": "out/20261017-075833-2_what-to-look-for-on-a-moisturiser-label.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
