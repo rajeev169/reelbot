@@ -91,6 +91,30 @@
       "title": "How to read your moisturiser label",
       "file": "out/20261017-075833-2_what-to-look-for-on-a-moisturiser-label.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261018-081344-1",
+      "date": "2026-10-18",
+      "category": "grooming",
+      "topic": "simple dark circle-friendly habits (sleep, hydration, sunscreen)",
+      "template": "simple_checklist",
+      "voice": "en-GB-SoniaNeural",
+      "status": "failed",
+      "title": "Three simple habits for brighter-looking eyes",
+      "file": "out/20261018-081344-1_simple-dark-circle-friendly-habits-sleep.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261018-081431-2",
+      "date": "2026-10-18",
+      "category": "nutrition",
+      "topic": "how to build a balanced plate without counting calories",
+      "template": "question_and_answer",
+      "voice": "en-US-JennyNeural",
+      "status": "failed",
+      "title": "Build a Balanced Plate Without Counting Calories",
+      "file": "out/20261018-081431-2_how-to-build-a-balanced-plate-without-co.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
