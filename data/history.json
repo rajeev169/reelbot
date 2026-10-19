@@ -115,6 +115,30 @@
       "title": "Build a Balanced Plate Without Counting Calories",
       "file": "out/20261018-081431-2_how-to-build-a-balanced-plate-without-co.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261019-091115-1",
+      "date": "2026-10-19",
+      "category": "hydration",
+      "topic": "how hydration and skin comfort are connected",
+      "template": "mistake_to_avoid",
+      "voice": "en-AU-NatashaNeural",
+      "status": "failed",
+      "title": "Why Your Skin Feels Tight After Washing",
+      "file": "out/20261019-091115-1_how-hydration-and-skin-comfort-are-conne.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261019-091156-2",
+      "date": "2026-10-19",
+      "category": "mindset",
+      "topic": "a 2-minute breathing reset for stress",
+      "template": "three_quick_tips",
+      "voice": "en-US-AriaNeural",
+      "status": "failed",
+      "title": "A simple two minute reset for daily stress",
+      "file": "out/20261019-091156-2_a-2-minute-breathing-reset-for-stress.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
