@@ -163,6 +163,30 @@
       "title": "Simple Home Nail Care Routine",
       "file": "out/20261020-084711-2_a-quick-nail-care-routine-at-home.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261021-084709-1",
+      "date": "2026-10-21",
+      "category": "nutrition",
+      "topic": "smart ways to eat more fibre",
+      "template": "mistake_to_avoid",
+      "voice": "en-GB-SoniaNeural",
+      "status": "failed",
+      "title": "Smart ways to add more fibre to your daily meals",
+      "file": "out/20261021-084709-1_smart-ways-to-eat-more-fibre.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261021-084755-2",
+      "date": "2026-10-21",
+      "category": "hydration",
+      "topic": "signs your daily routine may need more water",
+      "template": "before_you_try_this",
+      "voice": "en-US-JennyNeural",
+      "status": "failed",
+      "title": "Simple Signs You Might Need More Water",
+      "file": "out/20261021-084755-2_signs-your-daily-routine-may-need-more-w.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
