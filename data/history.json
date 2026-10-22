@@ -187,6 +187,30 @@
       "title": "Simple Signs You Might Need More Water",
       "file": "out/20261021-084755-2_signs-your-daily-routine-may-need-more-w.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261022-084921-1",
+      "date": "2026-10-22",
+      "category": "sleep",
+      "topic": "why a steady sleep schedule matters for how you look and feel",
+      "template": "mistake_to_avoid",
+      "voice": "en-IN-NeerjaNeural",
+      "status": "failed",
+      "title": "Why Your Sleep Schedule Controls How You Glow",
+      "file": "out/20261022-084921-1_why-a-steady-sleep-schedule-matters-for-.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261022-084949-2",
+      "date": "2026-10-22",
+      "category": "skincare",
+      "topic": "a simple 3-step morning skincare routine",
+      "template": "morning_routine_walkthrough",
+      "voice": "en-AU-NatashaNeural",
+      "status": "failed",
+      "title": "My simple three step morning skincare routine",
+      "file": "out/20261022-084949-2_a-simple-3-step-morning-skincare-routine.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
