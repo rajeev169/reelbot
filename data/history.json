@@ -235,6 +235,30 @@
       "title": "Three Easy Posture Resets For Your Desk Day",
       "file": "out/20261023-084505-2_posture-reminders-you-can-do-while-worki.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261024-081914-1",
+      "date": "2026-10-24",
+      "category": "nutrition",
+      "topic": "how to cut down on sugary drinks",
+      "template": "before_you_try_this",
+      "voice": "en-US-AvaNeural",
+      "status": "failed",
+      "title": "Cut Down on Sugary Drinks Gently",
+      "file": "out/20261024-081914-1_how-to-cut-down-on-sugary-drinks.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261024-081950-2",
+      "date": "2026-10-24",
+      "category": "hydration",
+      "topic": "tasty no-sugar ways to flavour water",
+      "template": "morning_routine_walkthrough",
+      "voice": "en-IN-NeerjaNeural",
+      "status": "failed",
+      "title": "My Favorite Sugar-Free Ways to Flavor Water",
+      "file": "out/20261024-081950-2_tasty-no-sugar-ways-to-flavour-water.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
