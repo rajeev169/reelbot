@@ -259,6 +259,30 @@
       "title": "My Favorite Sugar-Free Ways to Flavor Water",
       "file": "out/20261024-081950-2_tasty-no-sugar-ways-to-flavour-water.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261025-083744-1",
+      "date": "2026-10-25",
+      "category": "sleep",
+      "topic": "how to make your bedroom better for sleep",
+      "template": "question_and_answer",
+      "voice": "en-AU-NatashaNeural",
+      "status": "failed",
+      "title": "Simple Bedroom Tweaks for Better Sleep",
+      "file": "out/20261025-083744-1_how-to-make-your-bedroom-better-for-slee.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261025-083803-2",
+      "date": "2026-10-25",
+      "category": "mindset",
+      "topic": "journaling prompts for a calmer evening",
+      "template": "three_quick_tips",
+      "voice": "en-GB-SoniaNeural",
+      "status": "failed",
+      "title": "Three Evening Journal Prompts for a Calmer Mind",
+      "file": "out/20261025-083803-2_journaling-prompts-for-a-calmer-evening.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
