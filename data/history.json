@@ -307,6 +307,30 @@
       "title": "Build A Gentle Night Routine For Tired Skin",
       "file": "out/20261026-091438-2_how-to-build-a-gentle-night-routine-for-.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261027-091429-1",
+      "date": "2026-10-27",
+      "category": "grooming",
+      "topic": "lip care basics for dry weather",
+      "template": "myth_vs_fact",
+      "voice": "en-US-JennyNeural",
+      "status": "failed",
+      "title": "Dry Weather Lip Care Truths",
+      "file": "out/20261027-091429-1_lip-care-basics-for-dry-weather.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261027-091505-2",
+      "date": "2026-10-27",
+      "category": "hydration",
+      "topic": "easy habits to drink more water through the day",
+      "template": "three_quick_tips",
+      "voice": "en-AU-NatashaNeural",
+      "status": "failed",
+      "title": "Three easy ways to drink more water",
+      "file": "out/20261027-091505-2_easy-habits-to-drink-more-water-through-.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
