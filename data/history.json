@@ -331,6 +331,30 @@
       "title": "Three easy ways to drink more water",
       "file": "out/20261027-091505-2_easy-habits-to-drink-more-water-through-.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261028-095623-1",
+      "date": "2026-10-28",
+      "category": "haircare",
+      "topic": "gentle ways to reduce hair breakage",
+      "template": "simple_checklist",
+      "voice": "en-US-JennyNeural",
+      "status": "failed",
+      "title": "3 Gentle Ways to Reduce Hair Breakage",
+      "file": "out/20261028-095623-1_gentle-ways-to-reduce-hair-breakage.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261028-095708-2",
+      "date": "2026-10-28",
+      "category": "sleep",
+      "topic": "a calm wind-down routine before bed",
+      "template": "before_you_try_this",
+      "voice": "en-US-AvaNeural",
+      "status": "failed",
+      "title": "Build a Calming Night Routine for Better Sleep",
+      "file": "out/20261028-095708-2_a-calm-wind-down-routine-before-bed.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
