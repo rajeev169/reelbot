@@ -355,6 +355,30 @@
       "title": "Build a Calming Night Routine for Better Sleep",
       "file": "out/20261028-095708-2_a-calm-wind-down-routine-before-bed.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261029-101902-1",
+      "date": "2026-10-29",
+      "category": "skincare",
+      "topic": "how to patch test a new skincare product",
+      "template": "mistake_to_avoid",
+      "voice": "en-IN-NeerjaNeural",
+      "status": "failed",
+      "title": "How to properly patch test your new skincare products",
+      "file": "out/20261029-101902-1_how-to-patch-test-a-new-skincare-product.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261029-101941-2",
+      "date": "2026-10-29",
+      "category": "grooming",
+      "topic": "how to prep your skin before makeup",
+      "template": "three_quick_tips",
+      "voice": "en-GB-SoniaNeural",
+      "status": "failed",
+      "title": "Three Easy Steps for Smooth Makeup Prep",
+      "file": "out/20261029-101941-2_how-to-prep-your-skin-before-makeup.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
