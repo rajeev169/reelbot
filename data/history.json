@@ -379,6 +379,30 @@
       "title": "Three Easy Steps for Smooth Makeup Prep",
       "file": "out/20261029-101941-2_how-to-prep-your-skin-before-makeup.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261030-102051-1",
+      "date": "2026-10-30",
+      "category": "mindset",
+      "topic": "how to build a morning routine you can keep",
+      "template": "before_you_try_this",
+      "voice": "en-AU-NatashaNeural",
+      "status": "failed",
+      "title": "Build a morning routine that actually sticks",
+      "file": "out/20261030-102051-1_how-to-build-a-morning-routine-you-can-k.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261030-102131-2",
+      "date": "2026-10-30",
+      "category": "haircare",
+      "topic": "how to dry your hair with less heat damage",
+      "template": "myth_vs_fact",
+      "voice": "en-US-AvaNeural",
+      "status": "failed",
+      "title": "Smarter ways to blow dry your hair",
+      "file": "out/20261030-102131-2_how-to-dry-your-hair-with-less-heat-dama.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
