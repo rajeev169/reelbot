@@ -403,6 +403,30 @@
       "title": "Smarter ways to blow dry your hair",
       "file": "out/20261030-102131-2_how-to-dry-your-hair-with-less-heat-dama.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261031-095250-1",
+      "date": "2026-10-31",
+      "category": "nutrition",
+      "topic": "simple breakfast ideas that keep you full",
+      "template": "morning_routine_walkthrough",
+      "voice": "en-GB-SoniaNeural",
+      "status": "failed",
+      "title": "Three easy breakfasts for steady morning energy",
+      "file": "out/20261031-095250-1_simple-breakfast-ideas-that-keep-you-ful.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261031-095338-2",
+      "date": "2026-10-31",
+      "category": "movement",
+      "topic": "a short beginner-friendly home workout",
+      "template": "mistake_to_avoid",
+      "voice": "en-US-JennyNeural",
+      "status": "failed",
+      "title": "Beginner Home Workout Mistake to Avoid",
+      "file": "out/20261031-095338-2_a-short-beginner-friendly-home-workout.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
