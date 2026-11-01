@@ -427,6 +427,30 @@
       "title": "Beginner Home Workout Mistake to Avoid",
       "file": "out/20261031-095338-2_a-short-beginner-friendly-home-workout.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261101-104351-1",
+      "date": "2026-11-01",
+      "category": "grooming",
+      "topic": "how to keep your makeup brushes clean",
+      "template": "three_quick_tips",
+      "voice": "en-AU-NatashaNeural",
+      "status": "failed",
+      "title": "Easy Ways to Clean Your Makeup Brushes",
+      "file": "out/20261101-104351-1_how-to-keep-your-makeup-brushes-clean.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261101-104429-2",
+      "date": "2026-11-01",
+      "category": "skincare",
+      "topic": "common face-washing mistakes",
+      "template": "question_and_answer",
+      "voice": "en-US-AriaNeural",
+      "status": "failed",
+      "title": "Are you making these simple face washing mistakes?",
+      "file": "out/20261101-104429-2_common-face-washing-mistakes.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
