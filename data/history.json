@@ -451,6 +451,30 @@
       "title": "Are you making these simple face washing mistakes?",
       "file": "out/20261101-104429-2_common-face-washing-mistakes.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261102-113136-1",
+      "date": "2026-11-02",
+      "category": "nutrition",
+      "topic": "easy foods that support glowing skin",
+      "template": "three_quick_tips",
+      "voice": "en-US-AvaNeural",
+      "status": "failed",
+      "title": "Three simple foods for glowing skin",
+      "file": "out/20261102-113136-1_easy-foods-that-support-glowing-skin.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261102-113215-2",
+      "date": "2026-11-02",
+      "category": "hydration",
+      "topic": "how hydration and skin comfort are connected",
+      "template": "mistake_to_avoid",
+      "voice": "en-AU-NatashaNeural",
+      "status": "failed",
+      "title": "Why Hydration Matters for Skin Comfort",
+      "file": "out/20261102-113215-2_how-hydration-and-skin-comfort-are-conne.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
