@@ -499,6 +499,30 @@
       "title": "Stop guessing your shampoo",
       "file": "out/20261103-111204-2_how-to-choose-a-shampoo-without-the-gues.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261105-111938-1",
+      "date": "2026-11-05",
+      "category": "mindset",
+      "topic": "how to stop comparing your routine to influencers",
+      "template": "myth_vs_fact",
+      "voice": "en-US-JennyNeural",
+      "status": "failed",
+      "title": "Stop comparing your beauty routine to social media",
+      "file": "out/20261105-111938-1_how-to-stop-comparing-your-routine-to-in.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261105-112014-2",
+      "date": "2026-11-05",
+      "category": "skincare",
+      "topic": "easy ways to avoid over-exfoliating",
+      "template": "mistake_to_avoid",
+      "voice": "en-US-AvaNeural",
+      "status": "failed",
+      "title": "Stop Over-Exfoliating Your Skin",
+      "file": "out/20261105-112014-2_easy-ways-to-avoid-over-exfoliating.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
