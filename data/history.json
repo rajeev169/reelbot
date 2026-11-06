@@ -523,6 +523,30 @@
       "title": "Stop Over-Exfoliating Your Skin",
       "file": "out/20261105-112014-2_easy-ways-to-avoid-over-exfoliating.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261106-111752-1",
+      "date": "2026-11-06",
+      "category": "nutrition",
+      "topic": "how to read a food label in 20 seconds",
+      "template": "question_and_answer",
+      "voice": "en-IN-NeerjaNeural",
+      "status": "failed",
+      "title": "How to read food labels quickly",
+      "file": "out/20261106-111752-1_how-to-read-a-food-label-in-20-seconds.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261106-111835-2",
+      "date": "2026-11-06",
+      "category": "movement",
+      "topic": "easy ways to add more steps to your day",
+      "template": "morning_routine_walkthrough",
+      "voice": "en-AU-NatashaNeural",
+      "status": "failed",
+      "title": "Easy morning habits for more daily steps",
+      "file": "out/20261106-111835-2_easy-ways-to-add-more-steps-to-your-day.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
