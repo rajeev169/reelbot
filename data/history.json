@@ -571,6 +571,30 @@
       "title": "Quick Self-Care Habits Under Ten Minutes",
       "file": "out/20261107-103307-2_small-self-care-habits-that-take-under-1.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261108-103935-1",
+      "date": "2026-11-08",
+      "category": "grooming",
+      "topic": "simple dark circle-friendly habits (sleep, hydration, sunscreen)",
+      "template": "question_and_answer",
+      "voice": "en-GB-SoniaNeural",
+      "status": "failed",
+      "title": "Simple Habits for Brighter Under Eyes",
+      "file": "out/20261108-103935-1_simple-dark-circle-friendly-habits-sleep.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261108-104001-2",
+      "date": "2026-11-08",
+      "category": "nutrition",
+      "topic": "healthy snack swaps for the afternoon slump",
+      "template": "myth_vs_fact",
+      "voice": "en-US-AvaNeural",
+      "status": "failed",
+      "title": "Smart Afternoon Snack Swaps",
+      "file": "out/20261108-104001-2_healthy-snack-swaps-for-the-afternoon-sl.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
