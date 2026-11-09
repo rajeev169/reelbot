@@ -595,6 +595,30 @@
       "title": "Smart Afternoon Snack Swaps",
       "file": "out/20261108-104001-2_healthy-snack-swaps-for-the-afternoon-sl.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261109-115620-1",
+      "date": "2026-11-09",
+      "category": "skincare",
+      "topic": "why sunscreen matters even on cloudy days",
+      "template": "simple_checklist",
+      "voice": "en-US-AriaNeural",
+      "status": "failed",
+      "title": "Cloudy Day Sunscreen Check",
+      "file": "out/20261109-115620-1_why-sunscreen-matters-even-on-cloudy-day.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261109-115658-2",
+      "date": "2026-11-09",
+      "category": "hydration",
+      "topic": "signs your daily routine may need more water",
+      "template": "before_you_try_this",
+      "voice": "en-AU-NatashaNeural",
+      "status": "failed",
+      "title": "Simple signs your daily routine needs more water",
+      "file": "out/20261109-115658-2_signs-your-daily-routine-may-need-more-w.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
