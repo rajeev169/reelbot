@@ -619,6 +619,30 @@
       "title": "Simple signs your daily routine needs more water",
       "file": "out/20261109-115658-2_signs-your-daily-routine-may-need-more-w.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261110-113518-1",
+      "date": "2026-11-10",
+      "category": "haircare",
+      "topic": "a weekly scalp care routine",
+      "template": "myth_vs_fact",
+      "voice": "en-GB-SoniaNeural",
+      "status": "failed",
+      "title": "Simple Weekly Scalp Care Routine",
+      "file": "out/20261110-113518-1_a-weekly-scalp-care-routine.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261110-113624-2",
+      "date": "2026-11-10",
+      "category": "movement",
+      "topic": "desk stretches for neck and shoulders",
+      "template": "morning_routine_walkthrough",
+      "voice": "en-IN-NeerjaNeural",
+      "status": "failed",
+      "title": "Easy Desk Stretches For Neck And Shoulders",
+      "file": "out/20261110-113624-2_desk-stretches-for-neck-and-shoulders.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
