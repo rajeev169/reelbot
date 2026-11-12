@@ -667,6 +667,30 @@
       "title": "Why Your Sleep Schedule Controls Your Glow",
       "file": "out/20261111-111954-2_why-a-steady-sleep-schedule-matters-for-.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261112-113847-1",
+      "date": "2026-11-12",
+      "category": "mindset",
+      "topic": "a 2-minute breathing reset for stress",
+      "template": "before_you_try_this",
+      "voice": "en-US-AvaNeural",
+      "status": "failed",
+      "title": "A 2-Minute Breathing Reset for Daily Stress",
+      "file": "out/20261112-113847-1_a-2-minute-breathing-reset-for-stress.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261112-113942-2",
+      "date": "2026-11-12",
+      "category": "grooming",
+      "topic": "a quick nail care routine at home",
+      "template": "mistake_to_avoid",
+      "voice": "en-AU-NatashaNeural",
+      "status": "failed",
+      "title": "Easy At-Home Nail Care Routine",
+      "file": "out/20261112-113942-2_a-quick-nail-care-routine-at-home.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
