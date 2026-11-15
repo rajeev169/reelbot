@@ -739,6 +739,30 @@
       "title": "My cosy evening journaling routine for a calm mind",
       "file": "out/20261114-104609-2_journaling-prompts-for-a-calmer-evening.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261115-112025-1",
+      "date": "2026-11-15",
+      "category": "skincare",
+      "topic": "what to look for on a moisturiser label",
+      "template": "three_quick_tips",
+      "voice": "en-US-AriaNeural",
+      "status": "failed",
+      "title": "Three simple things to check on your moisturiser label",
+      "file": "out/20261115-112025-1_what-to-look-for-on-a-moisturiser-label.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261115-112124-2",
+      "date": "2026-11-15",
+      "category": "haircare",
+      "topic": "overnight hair care tips for smoother mornings",
+      "template": "myth_vs_fact",
+      "voice": "en-GB-SoniaNeural",
+      "status": "failed",
+      "title": "Simple Overnight Hair Care Habits",
+      "file": "out/20261115-112124-2_overnight-hair-care-tips-for-smoother-mo.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
