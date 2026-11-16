@@ -763,6 +763,30 @@
       "title": "Simple Overnight Hair Care Habits",
       "file": "out/20261115-112124-2_overnight-hair-care-tips-for-smoother-mo.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261116-115228-1",
+      "date": "2026-11-16",
+      "category": "hydration",
+      "topic": "easy habits to drink more water through the day",
+      "template": "mistake_to_avoid",
+      "voice": "en-IN-NeerjaNeural",
+      "status": "failed",
+      "title": "Build a Better Daily Water Habit",
+      "file": "out/20261116-115228-1_easy-habits-to-drink-more-water-through-.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261116-115258-2",
+      "date": "2026-11-16",
+      "category": "movement",
+      "topic": "a 5-minute morning stretch routine",
+      "template": "simple_checklist",
+      "voice": "en-US-AvaNeural",
+      "status": "failed",
+      "title": "A 5-Minute Gentle Morning Stretch Routine",
+      "file": "out/20261116-115258-2_a-5-minute-morning-stretch-routine.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
