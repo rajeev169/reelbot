@@ -811,6 +811,30 @@
       "title": "Build a morning routine you will actually stick to",
       "file": "out/20261117-121602-2_how-to-build-a-morning-routine-you-can-k.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261118-120211-1",
+      "date": "2026-11-18",
+      "category": "skincare",
+      "topic": "a simple 3-step morning skincare routine",
+      "template": "morning_routine_walkthrough",
+      "voice": "en-US-AvaNeural",
+      "status": "failed",
+      "title": "My simple three step morning skincare routine",
+      "file": "out/20261118-120211-1_a-simple-3-step-morning-skincare-routine.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261118-120254-2",
+      "date": "2026-11-18",
+      "category": "nutrition",
+      "topic": "smart ways to eat more fibre",
+      "template": "three_quick_tips",
+      "voice": "en-GB-SoniaNeural",
+      "status": "failed",
+      "title": "Three Easy Ways to Add More Fibre to Your Day",
+      "file": "out/20261118-120254-2_smart-ways-to-eat-more-fibre.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
