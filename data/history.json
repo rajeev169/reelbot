@@ -859,6 +859,30 @@
       "title": "Easy Lip Care Checklist for Dry Weather",
       "file": "out/20261119-120129-2_lip-care-basics-for-dry-weather.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261120-115936-1",
+      "date": "2026-11-20",
+      "category": "mindset",
+      "topic": "how to stop comparing your routine to influencers",
+      "template": "before_you_try_this",
+      "voice": "en-US-JennyNeural",
+      "status": "failed",
+      "title": "Stop comparing your wellness routine to influencers",
+      "file": "out/20261120-115936-1_how-to-stop-comparing-your-routine-to-in.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261120-120014-2",
+      "date": "2026-11-20",
+      "category": "sleep",
+      "topic": "a calm wind-down routine before bed",
+      "template": "question_and_answer",
+      "voice": "en-IN-NeerjaNeural",
+      "status": "failed",
+      "title": "How to build a calm wind-down routine for better sleep",
+      "file": "out/20261120-120014-2_a-calm-wind-down-routine-before-bed.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
