@@ -883,6 +883,30 @@
       "title": "How to build a calm wind-down routine for better sleep",
       "file": "out/20261120-120014-2_a-calm-wind-down-routine-before-bed.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261121-113255-1",
+      "date": "2026-11-21",
+      "category": "hydration",
+      "topic": "how hydration and skin comfort are connected",
+      "template": "mistake_to_avoid",
+      "voice": "en-US-AriaNeural",
+      "status": "failed",
+      "title": "Why Your Skin Feels Tight After Washing",
+      "file": "out/20261121-113255-1_how-hydration-and-skin-comfort-are-conne.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261121-113525-2",
+      "date": "2026-11-21",
+      "category": "skincare",
+      "topic": "how to build a gentle night routine for tired skin",
+      "template": "before_you_try_this",
+      "voice": "en-US-JennyNeural",
+      "status": "failed",
+      "title": "Build a gentle night skincare routine for tired skin",
+      "file": "out/20261121-113525-2_how-to-build-a-gentle-night-routine-for-.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
