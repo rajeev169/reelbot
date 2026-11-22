@@ -907,6 +907,30 @@
       "title": "Build a gentle night skincare routine for tired skin",
       "file": "out/20261121-113525-2_how-to-build-a-gentle-night-routine-for-.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261122-114706-1",
+      "date": "2026-11-22",
+      "category": "movement",
+      "topic": "a short beginner-friendly home workout",
+      "template": "simple_checklist",
+      "voice": "en-GB-SoniaNeural",
+      "status": "failed",
+      "title": "Easy Morning Movement Checklist",
+      "file": "out/20261122-114706-1_a-short-beginner-friendly-home-workout.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261122-114741-2",
+      "date": "2026-11-22",
+      "category": "mindset",
+      "topic": "small self-care habits that take under 10 minutes",
+      "template": "mistake_to_avoid",
+      "voice": "en-AU-NatashaNeural",
+      "status": "failed",
+      "title": "Quick self-care habits for a calmer mind",
+      "file": "out/20261122-114741-2_small-self-care-habits-that-take-under-1.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
     }
   ]
 }
