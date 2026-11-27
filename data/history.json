@@ -1025,6 +1025,28 @@
       "title": "How to Properly Patch Test New Skincare",
       "file": "out/20261126-130001-2_how-to-patch-test-a-new-skincare-product.mp4",
       "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261127-125450-1",
+      "date": "2026-11-27",
+      "category": "sleep",
+      "topic": "why a steady sleep schedule matters for how you look and feel",
+      "template": "simple_checklist",
+      "voice": "en-IN-NeerjaNeural",
+      "status": "failed",
+      "title": "Build a Better Sleep Routine",
+      "file": "out/20261127-125450-1_why-a-steady-sleep-schedule-matters-for-.mp4",
+      "error": "('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})"
+    },
+    {
+      "id": "20261127-125532-2",
+      "date": "2026-11-27",
+      "category": "haircare",
+      "topic": "how to dry your hair with less heat damage",
+      "template": "three_quick_tips",
+      "voice": "en-AU-NatashaNeural",
+      "status": "failed",
+      "error": "No audio was received. Please verify that your parameters are correct."
     }
   ]
 }
